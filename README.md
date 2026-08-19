@@ -31,10 +31,10 @@ I focus on:
 
 | Project | Description | Skills |
 |---------|-------------|--------|
-| [Coming Soon] Customer Churn Prediction | End-to-end ML pipeline with deployment | Classical ML, Feature Engineering, Streamlit |
-| [Coming Soon] Document Q&A (RAG) | Production-style Retrieval-Augmented Generation | LLMs, Embeddings, LangChain, Evaluation |
-| [Coming Soon] Image Classification App | Computer Vision model with live demo | PyTorch / Transfer Learning, Gradio |
-| [Coming Soon] Sales Forecasting | Time-series forecasting system | Time Series, Prophet / LSTM |
+| [Customer Churn Prediction](https://github.com/Ks-sharma/customer-churn-prediction) | End-to-end ML pipeline with feature engineering & deployment | Classical ML, XGBoost, Streamlit |
+| [Document Q&A (RAG)](https://github.com/Ks-sharma/document-qa-rag) | Production-style Retrieval-Augmented Generation system | LLMs, Embeddings, LangChain, Evaluation |
+| [Image Classification App](https://github.com/Ks-sharma/image-classification-app) | Computer Vision with Transfer Learning + interactive demo | PyTorch, Transfer Learning, Gradio |
+| [Sales Forecasting](https://github.com/Ks-sharma/sales-forecasting) | Time-series forecasting system | Time Series, Prophet, Streamlit |
 
 ---
 
